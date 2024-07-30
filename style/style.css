@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background-color: lightblue;
+}
+
+button{
+    margin: 10px;
+    background-color: rgb(61, 170, 61);
+}
+.container{
+    border: 2px solid black;
+    text-align: center;
+    width: 50%;
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+    
+}
+h1{
+    background-color: rgb(57, 199, 199);
+    margin-top: -1px;
+}
+label{
+    font-size: larger;
+    font-weight: bold;
+}
